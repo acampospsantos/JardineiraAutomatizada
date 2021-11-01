@@ -1,0 +1,2 @@
+Observação:
+A figura do esquema do circuito não tem o sensor de umidade do solo.
