@@ -2,7 +2,7 @@
 
 **Disciplina**: Introdução a Robótica
 
-**Professor**: Antônio (TJ)
+**Professor**: Antônio Luiz (TJ)
 
 **Grupo**: Anderson Santos, Felipe Cunha, Lucas Miranda, Matheus Oliveira, Marco Aurélio
 
