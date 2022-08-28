@@ -12,7 +12,7 @@ Nosso projeto consiste em uma "jardineira" automatizada, fazendo todo o cuidado 
 
 ## Ilustrações:
 ![1 Arduino](https://user-images.githubusercontent.com/54013675/187087590-d01cef02-c1f2-48b3-9b0c-bfa46ec68a3e.jpg)
-![2 Arduino](https://user-images.githubusercontent.com/54013675/187087541-a3b66302-fb15-44f3-8b30-09ac1ef4a72e.jpg)
+![2 Arduino](https://user-images.githubusercontent.com/54013675/187087633-ded6eba5-b817-433c-8801-7d4c38e477fd.jpg)
 ![66178307-2d5c6680-e63b-11e9-9ea3-973ec535b20b](https://user-images.githubusercontent.com/54013675/187086686-c94c9379-5aa4-4df7-aeb3-484cc504dfb6.jpg)
 
 
